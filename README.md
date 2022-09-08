@@ -8,31 +8,31 @@
 
 | Week # | Day # | NAME       | CODE SOLUTION | VIDEO SOLUTION |
 |--------|-------|------------|---------------|----------------|
-| Week 1 | Day 1 | Plus Minus |               |                |
-| Week 1 | Day 2 |            |               |                |
-| Week 1 | Day 3 |            |               |                |
-| Week 1 | Day 4 |            |               |                |
-| Week 1 | Day 5 |            |               |                |
-| Week 1 | Day 6 |            |               |                |
-| Week 2 | Day 1 |            |               |                |
-| Week 2 | Day 1 |            |               |                |
-| Week 2 | Day 2 |            |               |                |
-| Week 2 | Day 3 |            |               |                |
-| Week 2 | Day 4 |            |               |                |
-| Week 2 | Day 5 |            |               |                |
-| Week 2 | Day 6 |            |               |                |
-| Week 3 | Day 1 |            |               |                |
-| Week 3 | Day 2 |            |               |                |
-| Week 3 | Day 3 |            |               |                |
-| Week 3 | Day 4 |            |               |                |
-| Week 3 | Day 5 |            |               |                |
-| Week 3 | Day 6 |            |               |                |
-| Week 4 | Day 1 |            |               |                |
-| Week 4 | Day 2 |            |               |                |
-| Week 4 | Day 3 |            |               |                |
-| Week 4 | Day 4 |            |               |                |
-| Week 4 | Day 5 |            |               |                |
-| Week 4 | Day 6 |            |               |                |
+| Week 1 | Day 1 | Plus Minus |               | [See Video](https://youtu.be/iC6O_zq6tek)               |
+| Week 1 | Day 2 |            |               | [See Video](https://youtu.be/iC6O_zq6tek)               |               |
+| Week 1 | Day 3 |            |               | [See Video](https://youtu.be/iC6O_zq6tek)               |               |
+| Week 1 | Day 4 |            |               | [See Video](https://youtu.be/iC6O_zq6tek)               |               |
+| Week 1 | Day 5 |            |               | [See Video](https://youtu.be/iC6O_zq6tek)               |               |
+| Week 1 | Day 6 |            |               | [See Video](https://youtu.be/iC6O_zq6tek)               |               |
+| Week 2 | Day 1 |            |               | [See Video](https://youtu.be/iC6O_zq6tek)               |               |
+| Week 2 | Day 1 |            |               | [See Video](https://youtu.be/iC6O_zq6tek)               |               |
+| Week 2 | Day 2 |            |               | [See Video](https://youtu.be/iC6O_zq6tek)               |               |
+| Week 2 | Day 3 |            |               | [See Video](https://youtu.be/iC6O_zq6tek)               |               |
+| Week 2 | Day 4 |            |               | [See Video](https://youtu.be/iC6O_zq6tek)               |               |
+| Week 2 | Day 5 |            |               | [See Video](https://youtu.be/iC6O_zq6tek)               |               |
+| Week 2 | Day 6 |            |               | [See Video](https://youtu.be/iC6O_zq6tek)               |               |
+| Week 3 | Day 1 |            |               | [See Video](https://youtu.be/iC6O_zq6tek)               |               |
+| Week 3 | Day 2 |            |               | [See Video](https://youtu.be/iC6O_zq6tek)               |               |
+| Week 3 | Day 3 |            |               | [See Video](https://youtu.be/iC6O_zq6tek)               |               |
+| Week 3 | Day 4 |            |               | [See Video](https://youtu.be/iC6O_zq6tek)               |               |
+| Week 3 | Day 5 |            |               | [See Video](https://youtu.be/iC6O_zq6tek)               |               |
+| Week 3 | Day 6 |            |               | [See Video](https://youtu.be/iC6O_zq6tek)               |               |
+| Week 4 | Day 1 |            |               | [See Video](https://youtu.be/iC6O_zq6tek)               |               |
+| Week 4 | Day 2 |            |               | [See Video](https://youtu.be/iC6O_zq6tek)               |               |
+| Week 4 | Day 3 |            |               | [See Video](https://youtu.be/iC6O_zq6tek)               |               |
+| Week 4 | Day 4 |            |               | [See Video](https://youtu.be/iC6O_zq6tek)               |               |
+| Week 4 | Day 5 |            |               | [See Video](https://youtu.be/iC6O_zq6tek)               |               |
+| Week 4 | Day 6 |            |               | [See Video](https://youtu.be/iC6O_zq6tek)               |               |
 
 
 ### Certify
